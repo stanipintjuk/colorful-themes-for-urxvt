@@ -1,0 +1,42 @@
+! special
+URxvt.scrollBar: false
+URxvt.internalBorder: 25	
+
+*.foreground:           #ffffff
+*.highlightColor:       #b04cad
+*.highlightTextColor:   #000000
+*.cursorColor:          #ffffff
+*.cursorColor2:         #000000
+*.background:           #4caf50
+
+! black
+*.color0:       #000000
+*.color8:       #000000
+
+! red
+*.color1:       #d50000
+*.color9:       #d50000
+
+! green
+*.color2:       #aeea00
+*.color10:      #aeea00
+
+! yellow
+*.color3:       #ffff00
+*.color11:      #ffff00
+
+! blue
+*.color4:       #01579b
+*.color12:      #01579b
+
+! magenta
+*.color5:       #ff80ab
+*.color13:      #ff80ab
+
+! cyan
+*.color6:       #80deea
+*.color14:      #80deea
+
+! white
+*.color7:       #ffffff
+*.color15:      #ffffff
