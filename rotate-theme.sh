@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This script rotates between the themes and starts urxvt with a random
+# background image from the res/ directory.
+
 themedir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 #define some theme sequence
 theme[0]="blue"
